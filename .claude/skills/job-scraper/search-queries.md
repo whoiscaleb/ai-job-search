@@ -18,6 +18,12 @@ Primary (remote job boards):
 - **techjobsforgood.com** - social-impact/mission-driven org tech job board; fetches cleanly, has a "Remote (US)" filter. Note: postings frequently close fast (several sampled were already closed within weeks of posting) - always confirm still-open status before presenting.
 - **4dayweek.io/remote-jobs** - remote job board with a customer/technical support category; many roles offer reduced-hour schedules. Some postings are non-US (e.g. Remote Egypt) - check work-eligibility requirements before presenting.
 - **remote.co/remote-jobs/customer-service** - category-specific page on the already-listed remote.co, more targeted than the general site search.
+- **app.welcometothejungle.com** - European-origin remote job board (formerly Otta) with US listings; `site:` search returns direct, individually fetchable job postings.
+
+**Tested and rejected (do not add to query rotation):**
+- ~~techfetch.com~~ - blocks automated fetch (403 Forbidden); also skews toward IT staffing/C2C contract roles rather than direct-hire remote positions
+- ~~ziprecruiter.com~~ - blocks automated fetch (403 Forbidden); `site:` search only surfaces aggregate location pages, not individual postings
+- ~~levels.fyi~~ - job pages return empty/blank content on fetch (JS-rendered, not scrapable)
 
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
@@ -47,6 +53,7 @@ site:linkedin.com/jobs "Technical Support Engineer" Remote
 site:linkedin.com/jobs "Tier 2 Support" OR "Tier 3 Support" Remote
 site:techjobsforgood.com "technical support" OR "support engineer" OR "support specialist"
 site:4dayweek.io "technical support" OR "support specialist"
+site:app.welcometothejungle.com "technical support" OR "customer support" remote USA
 ```
 
 ### Priority 2: Enterprise SaaS Support & Escalation Management
