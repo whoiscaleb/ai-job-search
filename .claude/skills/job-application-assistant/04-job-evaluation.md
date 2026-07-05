@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Technical Support, Enterprise SaaS support, ticket/queue management (Salesforce, Jira, Linear), hardware/software troubleshooting, technical documentation, incident/escalation management, coaching/mentoring support reps
+**Moderate match areas:** Python/SQL scripting and data validation/automation, JavaScript/TypeScript, ReactJS, Angular, Node.js (real skills and a General Assembly cert, but not yet backed by a professional software engineering job title)
+**Weak match areas:** Hands-on cloud engineering (degree in progress, expected Spring 2027), formal people-management beyond peer coaching
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Tier 1/2/3 technical support, support engineering, Enterprise SaaS customer support, escalation/incident management
+**Moderate:** Developer-facing support roles, technical customer success, support-to-engineering hybrid roles that lean on his JS/Python skills
+**Entry-level:** Junior/associate software engineering roles (has the cert and skills, not yet the job title experience)
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -47,8 +47,9 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
+- Fully remote: PASS
+- On-site/hybrid within a 30-minute commute of Davenport, FL: PASS
+- On-site/hybrid beyond a 30-minute commute of Davenport, FL: FAIL (deal-breaker)
 - Requires relocation: FAIL (deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
 
@@ -63,19 +64,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Take on more technically challenging work that grows his cloud/software engineering knowledge
+- Move into roles with more autonomy and ownership over his own priorities
+- Build toward a long-term blend of technical support depth and software/cloud engineering skill
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Autonomous troubleshooting of complex/novel technical problems, growing cloud/software skills, owning escalations end-to-end
+- Tasks that drain: Purely repetitive/rote work as the core function, heavy persuasion/social-facilitation duties, rigid processes with no room to use judgment
+- Non-task factors: Manager who sets goals and gives autonomy rather than micromanaging; minimal unnecessary meetings/group facilitation
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently employed at Biller Genie earning $60,000; will only move for compensation above that baseline
+- **Flexibility**: Wants remote-first work; on-site/hybrid only acceptable within a 30-minute commute of Davenport, FL
+- **Professional development**: Actively growing cloud computing skills via an in-progress WGU degree (expected Spring 2027); wants a role that lets that growth compound
 
 ### 6. Salary Benchmark (Optional)
 

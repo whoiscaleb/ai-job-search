@@ -105,12 +105,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Technical Support / Support Engineering roles (primary target):**
+> Technical Support Specialist with 5 years of experience delivering high-quality service for Enterprise SaaS customers, maintaining a ~95%+ success rate on complex technical escalations while managing high-volume ticket queues in Linear and Salesforce. Combines deep troubleshooting expertise with Python and SQL to investigate issues and improve operational efficiency. Builds documentation and processes that measurably reduce repeat tickets and escalation volume.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Developer-facing / Support Engineering hybrid roles (secondary, when a posting leans technical):**
+> Technical Support Specialist with 5 years of Enterprise SaaS support experience and hands-on software development skills (JavaScript/TypeScript, React, Node.js, Python), backed by a General Assembly Software Engineering certificate. Bridges customer-facing troubleshooting with engineering collaboration, translating complex technical issues into clear, actionable bug reports that cut engineering research time significantly.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

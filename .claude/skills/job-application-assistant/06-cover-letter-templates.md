@@ -99,12 +99,19 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 \lettercontent{I look forward to hearing from you.}
 
 \begin{flushright}
-\closing{Kind regards,\\}
+\closing{Kind regards,}
 
 \signature{[YOUR_NAME]}
 \end{flushright}
 \end{document}
 ```
+
+### Known template pitfall: `\closing{}` already appends its own line break
+
+`cover.cls` defines `\closing{#1}` as `{#1 \\}\mbox{}\\...` - it appends a `\\` after your argument internally. Passing `\closing{Kind regards,\\}` (with a trailing `\\` in the argument) produces two consecutive `\\` with nothing between them, which throws `! LaTeX Error: There's no line here to end.` and no PDF output.
+
+**Wrong (breaks compile):** `\closing{Kind regards,\\}`
+**Correct:** `\closing{Kind regards,}` - no trailing `\\`, the class adds its own line break.
 
 ## Key Commands Reference
 

@@ -10,44 +10,54 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+### 1. Streamlining bug identification in Linear (Cross-team collaboration / process improvement)
+**S:** Engineering spent significant time reproducing and diagnosing bugs reported through support before a fix could even begin.
+**T:** As Tier 2 support handling escalations, Caleb needed to close the information gap between customers and engineers.
+**A:** Standardized how bugs were logged and triaged in Linear, establishing a repeatable format that captured reproduction steps, logs, and system context before handoff to Engineering.
+**R:** Reduced Engineering research time by 70% and cut average resolution speed by 18 hours.
+**Use for:** "Tell me about a time you improved a process", "How do you work with engineering teams?"
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Coaching Tier 1 reps to improve first-call resolution (Mentoring / leadership)
+**S:** The Tier 1 team had a 67% first-call resolution rate, driving unnecessary escalation volume.
+**T:** Caleb coached 12 Tier 1 reps and 2 Tier 2 specialists on standardized troubleshooting processes.
+**A:** Built and taught standardized troubleshooting workflows, then mentored reps individually on applying them.
+**R:** First-call resolution improved from 67% to 84%, and escalation volume dropped 35%.
+**Use for:** "Tell me about a time you mentored someone", "Describe your leadership style"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Technical documentation that reduced repeat tickets (Scaling support without headcount)
+**S:** Repeat customer issues were generating a high, avoidable volume of support tickets.
+**T:** Needed a scalable way to cut repeat contact without adding headcount.
+**A:** Developed technical documentation and user-education articles adopted across the organization.
+**R:** Reduced repeat issues by 52%, resulting in 240+ fewer monthly support tickets.
+**Use for:** "How do you scale support without more headcount?", "Tell me about something you built that was adopted broadly"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 4. Automating data validation with Python (Technical/coding initiative)
+**S:** Customer-facing reports and internal troubleshooting relied on manual data validation, which was slow and error-prone.
+**T:** Improve the accuracy and efficiency of that validation work.
+**A:** Wrote Python scripts to automate the data validation tasks.
+**R:** Improved the accuracy of customer-facing reports and the efficiency of internal troubleshooting.
+**Use for:** "Tell me about a time you used code to solve a problem", "Do you have development experience?"
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+### 5. Managing high-volume complex escalations at 98% success (Working under pressure)
+**S:** The Tier 2 role at Biller Genie requires handling complex technical escalations across Enterprise SaaS customers at high volume.
+**T:** Maintain resolution quality while managing 50+ weekly cases.
+**A:** Applied deep SaaS systems expertise and structured, methodical troubleshooting to each case.
+**R:** Sustained a 98% success rate on complex escalations despite high case volume.
+**Use for:** "How do you handle a high-volume workload?", "Tell me about a difficult technical issue you resolved"
 
 ## Common Tough Questions
 
-### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+### "Why are you looking to leave Biller Genie?"
+> I've built real depth at Biller Genie, from resolving complex escalations to standardizing bug triage and coaching newer reps, and I'm proud of that work. I'm looking for a fully remote role that lets me keep growing technically, especially as I finish my Cloud Computing degree, and take on more challenging problems than my current queue offers.
 
-### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+### "You don't have professional software engineering experience."
+> That's fair, my job title has been technical support, not engineer. But I've built real things with it: I completed a General Assembly Software Engineering certificate, and I use Python day-to-day at Biller Genie to automate data validation for customer-facing reports. I'm also finishing a Cloud Computing degree at WGU. I see this as a genuine adjacent skill set I'm actively formalizing, not a resume line.
 
 ### "Where do you see yourself in 5 years?"
-> [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
+> Continuing to grow technically, likely into a role that blends deep systems troubleshooting with more hands-on engineering or cloud infrastructure work, building on both my support background and my Cloud Computing degree.
 
 ### "What's your biggest weakness?"
-> [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]
+> I default to methods I know work, and I can be slow to embrace a new process without a clear reason for the change. In practice, I've learned to ask "what specifically does this fix?" before pushing back, which usually resolves it quickly, but I know it's something to stay conscious of.
 
 ### "Why this company specifically?"
 > Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.

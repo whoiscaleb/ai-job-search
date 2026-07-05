@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Caleb Johnson
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Caleb Johnson, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,66 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Caleb Johnson
+- **Location:** Davenport, FL, USA (remote-first; open to hybrid/on-site only within a 30-minute commute of Davenport)
+- **Languages:** English (native)
+- **Status:** Employed (Biller Genie), actively seeking a new remote role
+- **LinkedIn headline:** "Technical Support Representative"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Bachelor of Science in Cloud Computing** (in progress, expected Spring 2027) - Western Governors University
+  - Topics: Cloud Computing
+- **Associate of Science in Information Technology & Business Administration** - Polk State College
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Tier 2 Software Support Specialist** (Apr 2024 - Present) - **Biller Genie** (Remote)
+  - Resolved complex technical escalations at a 98% success rate, managing 50+ weekly cases across Enterprise SaaS systems
+  - Streamlined bug identification in Linear, cutting Engineering research time by 70% and resolution speed by 18 hours on average
+  - Coached 12 Tier 1 reps and 2 Tier 2 specialists, improving first-call resolution from 67% to 84%
+- **Tier 1 Software Support Specialist / IT Office Support** (Apr 2023 - Apr 2024) - **Biller Genie**
+- **Customer Sales/IT Support Specialist** (Feb 2023 - May 2023) - **Lakeland Automall Ford**
+- **Customer Service Supervisor, Hardware Support** (May 2021 - Feb 2023) - **Lowe's Home Improvement**
+- **Customer Support/Sales Representative** (Feb 2020 - May 2021) - **Cellular Sales**
+
+Full history with all bullets in `.claude/skills/job-application-assistant/01-candidate-profile.md`.
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Technical Support, Enterprise SaaS Support, Salesforce, Linear, Jira, Hardware/Software Troubleshooting, Incident & Escalation Management
+- **Secondary:** Python, SQL, JavaScript/TypeScript, ReactJS, Angular, Node.js, RESTful API Integration
+- **Domain:** Enterprise SaaS technical support, escalation management, technical documentation
+- **Software:** Jira, Linear, Salesforce, GitHub, Google Sheets
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Software Engineering Certificate** - General Assembly - completed May 2023
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+None currently listed.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- Source: workplace behavioral assessment (PI-style), taken a few years ago -->
+- **Self-reliant and autonomous** - sets own priorities, manages follow-through without close supervision, comfortable with some authority
+- **Reserved, direct communicator** - needs time to warm up, speaks factually, prefers technical work over group facilitation
+- **Strengths:** Autonomous troubleshooting under deadline pressure, tenacious follow-through, logic-driven problem-solving, mentoring peers, delegating detail work while owning quality
+- **Growth areas:** Prefers proven methods over frequent process churn; more comfortable one-on-one than in group settings; can seem emotionally detached even when he cares
+- **Thrives in:** Loosely-structured, autonomy-driven environments with clear goals, minimal micromanagement, and deadline/pressure-driven work
+
+Full profile in `.claude/skills/job-application-assistant/02-behavioral-profile.md`.
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- A challenging role that grows his technical/cloud engineering knowledge
+- Remote-first work with autonomy over his own priorities
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Enterprise SaaS / B2B Software: Salesforce, Zendesk, Atlassian, GitLab, Twilio
+- Cloud/DevOps-adjacent companies (aligned with the in-progress Cloud Computing degree): AWS partners, cloud consultancies
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Compensation at or below current salary ($60,000)
+- Non-remote roles with a commute of more than 30 minutes from Davenport, FL
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
