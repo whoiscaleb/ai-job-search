@@ -27,6 +27,7 @@ Primary (remote job boards):
 - ~~levels.fyi~~ - job pages return empty/blank content on fetch (JS-rendered, not scrapable)
 - ~~kforce.com~~ - search results page is JS-rendered and returns no listings on fetch; also a staffing agency (same concern as techfetch)
 - ~~monster.com~~ - blocks automated fetch (403 Forbidden) on both search pages and individual job postings
+- ~~glassdoor.com~~ - blocks automated fetch (403 Forbidden); `site:` search only surfaces aggregate location-category pages, not individual postings
 
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
