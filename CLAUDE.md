@@ -14,7 +14,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Name:** Caleb Johnson
 - **Location:** Davenport, FL, USA (remote-first; open to hybrid/on-site only within a 30-minute commute of Davenport)
 - **Languages:** English (native)
-- **Status:** Employed (Biller Genie), actively seeking a new remote role
+- **Status:** Unemployed (recently left Biller Genie), actively and urgently seeking a new remote role
 - **LinkedIn headline:** "Technical Support Representative"
 
 ### Education
@@ -68,7 +68,7 @@ Full profile in `.claude/skills/job-application-assistant/02-behavioral-profile.
 - Cloud/DevOps-adjacent companies (aligned with the in-progress Cloud Computing degree): AWS partners, cloud consultancies
 
 ### Deal-breakers
-- Compensation at or below current salary ($60,000)
+- Compensation at or below $50,000
 - Non-remote roles with a commute of more than 30 minutes from Davenport, FL
 
 ## Repo Structure

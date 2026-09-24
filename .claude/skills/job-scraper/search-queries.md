@@ -103,7 +103,7 @@ Unlike the boards above, [supportdriven.com/weekly-job-roundup](https://www.supp
 
 1. WebFetch the index page and find the most recent roundup post link
 2. WebFetch that specific roundup post to extract the individual job listings (title, company, location, link) it contains
-3. Filter results the same way as other sources: remote-first, 30-minute Davenport commute cap, compensation above $60,000, posted within the last 14 days
+3. Filter results the same way as other sources: remote-first, 30-minute Davenport commute cap, compensation above $50,000, posted within the last 14 days
 
 Run this once per `/scrape` session regardless of which priority categories are selected, since it's a single well-targeted source for support-role postings rather than a broad search.
 
@@ -125,7 +125,7 @@ Caleb is based in Davenport, FL and is remote-first. Define acceptable areas:
 
 ## Compensation Filter
 
-Deal-breaker: compensation at or below $60,000 (Caleb's current salary). Flag postings with no listed salary for follow-up rather than skipping them.
+Deal-breaker: compensation at or below $50,000. Flag postings with no listed salary for follow-up rather than skipping them.
 
 ## Date Filter
 
