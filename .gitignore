@@ -70,3 +70,6 @@ upskill/*.md
 .agents/**/node_modules/
 .agents/**/*.log
 .agents/usage/
+
+# Personal application workbooks (generated CVs/cover letters + tracker - do not share)
+applications/
