@@ -173,6 +173,8 @@ Once the reviewer agent returns its feedback:
 
 After all edits are applied, the two files on disk are the final drafts.
 
+4. **Humanizer pass (mandatory).** Load the `humanizer` skill and run it in file mode on the cover letter body and the CV profile statement. Cover letters are plain paragraphs with no bold-label bullet lists. Do not add or drop any fact while rewriting.
+
 ---
 
 ## Step 5: DRAFTER - Compile & Inspect PDFs (MANDATORY)

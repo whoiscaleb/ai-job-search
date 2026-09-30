@@ -16,7 +16,7 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** Technical Support, Enterprise SaaS support, ticket/queue management (Salesforce, Jira, Linear), hardware/software troubleshooting, technical documentation, incident/escalation management, coaching/mentoring support reps
+**Strong match areas:** Technical Support, Enterprise SaaS support, ticket/queue management (Salesforce, Jira, Linear), hardware/software troubleshooting, technical documentation, incident/escalation management, coaching/mentoring support reps, payment processor troubleshooting (Stax, Stripe, Authorize.Net)
 **Moderate match areas:** Python/SQL scripting and data validation/automation, JavaScript/TypeScript, ReactJS, Angular, Node.js (real skills and a General Assembly cert, but not yet backed by a professional software engineering job title)
 **Weak match areas:** Hands-on cloud engineering (degree in progress, expected Spring 2027), formal people-management beyond peer coaching
 
@@ -74,7 +74,7 @@ Does this role advance career goals and contain tasks that energize?
 - Non-task factors: Manager who sets goals and gives autonomy rather than micromanaging; minimal unnecessary meetings/group facilitation
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: Currently employed at Biller Genie earning $60,000; will only move for compensation above that baseline
+- **Security**: Currently employed at Biller Genie earning $60,000. Salary floor lowered to $50,000 on 2026-09-28 to widen the search: roles at $50K+ pass, but flag anything under $60K as a pay cut in the evaluation
 - **Flexibility**: Wants remote-first work; on-site/hybrid only acceptable within a 30-minute commute of Davenport, FL
 - **Professional development**: Actively growing cloud computing skills via an in-progress WGU degree (expected Spring 2027); wants a role that lets that growth compound
 

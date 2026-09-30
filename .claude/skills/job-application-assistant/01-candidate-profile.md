@@ -27,6 +27,8 @@ Remote
 - Developed technical documentation and user education articles used across the organization, reducing repeat issues by 52% and resulting in 240+ fewer monthly support tickets
 - Coached 12 Tier 1 Support Team reps and two Tier 2 Specialists, improving first-call resolution from 67% to 84% and reducing escalation volume by 35% through standardized processes
 - Utilized Python scripts to automate data validation tasks, improving the accuracy of customer-facing reports and internal troubleshooting efficiency
+- Built MagicCarpet (QuickBooks sync integration) Troubleshooter, an internal application used by both Support and Sales to diagnose sync/install issues in real time via a guided flowchart and error-matching tool (paste error text or a screenshot, get matched against a documented error library with root cause, fix steps, and Help Center link), cutting sync-related ticket volume by 70%
+- Troubleshot payment processing across Biller Genie's three integrated payment processors (Stax, Stripe, Authorize.Net), cross-communicating directly with each processor's own support/integration teams to resolve setup issues and failed transactions
 
 ### Tier 1 Software Support Specialist / IT Office Support - Biller Genie (Apr 2023 - Apr 2024)
 - Served as the primary point of contact for customer inquiries across multiple channels, providing end-to-end ownership of technical issues

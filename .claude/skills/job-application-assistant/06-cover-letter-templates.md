@@ -84,19 +84,13 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 
 \lettercontent{[Opening paragraph - role, connection to background, 2-3 sentences]}
 
-\lettercontent{[Body paragraph - most relevant experience, then bullet list]
+\lettercontent{[Why this company - what they do, stated plainly, and how it connects to your work]}
 
-\begin{itemize}
-    \item [Concrete achievement/skill 1]
-    \item [Concrete achievement/skill 2]
-    \item [Concrete achievement/skill 3]
-\end{itemize}
+\lettercontent{[Evidence paragraph - 2-3 concrete results in plain sentences, no bullet list]}
 
-[Connection to company - why this role, why this company specifically]}
+\lettercontent{[Gap paragraph - name the gap plainly and how you'd close it]}
 
-\lettercontent{[Personal fit paragraph - behavioral strengths, team contribution, 2-3 sentences]}
-
-\lettercontent{I look forward to hearing from you.}
+\lettercontent{[Short, simple closing - vary the wording per letter]}
 
 \begin{flushright}
 \closing{Kind regards,}
@@ -134,18 +128,16 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 - Target: 1 page including signature block
 - Maximum: **never exceed 1 page**
 - **Word budget: 250-300 words** of body text (not counting LaTeX markup). This is the safe maximum. 350 words will overflow.
-- **Always count**: opening paragraph + bullet list paragraph + closing paragraph = 3 blocks. Add a 4th only if the others are short.
+- **Always count**: 4-5 short plain paragraphs (opening, why this company, evidence, gap, closing). Merge two if the letter runs long.
 - When adding company-specific content, trim other content to compensate rather than adding net length
 
 ### Line Spacing
 - Add `\usepackage{setspace}` and `\setstretch{1.0}` if the letter is long and needs to fit on one page
 - Use `\vspace{.5cm}` between major sections for readability (only if space permits)
 
-### Bullet Lists
-- Place `\begin{itemize}...\end{itemize}` **outside** a `\lettercontent{}` block (see "Known template pitfall" above), wrapped in the matching Raleway-Medium `\fontspec` so the bullet font matches the body
-- 3-5 bullets is ideal
-- Start each bullet with bold label or action verb
-- Use `\textbf{Label:}` for category-style bullets
+### No Bullet Lists (default since 2026-09-29)
+- Write cover letters as plain paragraphs. Do **not** use bold-label bullet lists (`\item \textbf{Label:} ...`); they are the strongest AI-writing tell (humanizer skill §19). Run every draft through the `humanizer` skill (`~/.claude/skills/humanizer/SKILL.md`) before compiling.
+- If a list is truly needed (rare), use plain unlabeled items and follow the itemize pitfall fix above (outside `\lettercontent{}`, wrapped in the Raleway-Medium `\fontspec`).
 
 ### LaTeX Special Characters
 - Underscore: `\_`

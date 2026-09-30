@@ -2,6 +2,8 @@
 
 ## Critical Rules
 
+0. **Run the `humanizer` skill** (`~/.claude/skills/humanizer/SKILL.md`) on every cover letter, CV profile statement, and message before finalizing. It applies to all text written for Caleb, not only applications.
+
 1. **NO em-dashes (--).**  Use commas, periods, or restructure the sentence instead.
 2. **NO cliches or filler phrases.** Cut: "I am passionate about", "I believe I would be a great fit", "leverage my skills", "hit the ground running", "drive results", "synergies".
 3. **NO generic buzzwords** without concrete backing. Every claim must be supported by a specific example or fact.
@@ -55,8 +57,8 @@ The cover letter is **not a CV repetition**. It should be forward-looking:
 - Lead with the most relevant experience for this specific role
 - Frame content around **which of their tasks you can solve and how**
 - Describe your approach: methods, tools, and knowledge you'll bring
-- Use bullet lists for concrete skills/achievements when appropriate (3-5 bullets)
-- Each bullet should be specific and outcome-oriented
+- Write the evidence as plain sentences, not a bullet list. No bold-label bullets in cover letters
+- Each claim should be specific and outcome-oriented
 - Include at least one example that shows initiative
 - Include 1-2 brief examples of past success, but keep the focus forward-looking
 

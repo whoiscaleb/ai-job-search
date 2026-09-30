@@ -14,7 +14,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Name:** Caleb Johnson
 - **Location:** Davenport, FL, USA (remote-first; open to hybrid/on-site only within a 30-minute commute of Davenport)
 - **Languages:** English (native)
-- **Status:** Unemployed (recently left Biller Genie), actively and urgently seeking a new remote role
+- **Status:** Employed (Biller Genie), actively seeking a new remote role
 - **LinkedIn headline:** "Technical Support Representative"
 
 ### Education
@@ -68,7 +68,7 @@ Full profile in `.claude/skills/job-application-assistant/02-behavioral-profile.
 - Cloud/DevOps-adjacent companies (aligned with the in-progress Cloud Computing degree): AWS partners, cloud consultancies
 
 ### Deal-breakers
-- Compensation at or below $50,000
+- Compensation below $50,000 (lowered from $60,000 on 2026-09-28 to widen the search; current salary is $60,000, so roles between $50K and $60K are an acceptable pay cut)
 - Non-remote roles with a commute of more than 30 minutes from Davenport, FL
 
 ## Repo Structure
@@ -84,7 +84,7 @@ Full profile in `.claude/skills/job-application-assistant/02-behavioral-profile.
 4. **Verify both documents** (see Verification Checklist below)
 5. Prepare interview talking points based on the role requirements and your strengths
 
-**Important:** When mentioning agentic coding or AI tooling in CVs/cover letters, explicitly reference **Claude Code** by name.
+**Important:** Never mention AI tools, AI-assisted workflows, or agentic coding as something Caleb personally uses in CVs or cover letters. Disclosing AI usage in the application materials themselves reads as a red flag to hiring managers and invites the assumption that the application was AI-written. If a bullet needs a "personal initiative" beat, use a real non-AI example instead (e.g., the MagicCarpet troubleshooting tool built at Biller Genie). This restriction is about Caleb's own tool use; describing a target company's own AI-related product or market position (when independently verified) is fine.
 
 ## Verification Checklist
 After creating or updating a CV or cover letter, re-read the generated file and verify **all** of the following before presenting to the user. Report the results as a pass/fail checklist.
@@ -110,7 +110,7 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 ### Quality
 - [ ] No LaTeX syntax errors (balanced braces, correct commands)
 - [ ] No spelling or grammar errors
-- [ ] Agentic coding / AI tooling references mention **Claude Code** by name
+- [ ] No mention of Caleb personally using AI tools, AI-assisted workflows, or agentic coding anywhere in the CV or cover letter
 - [ ] Cover letter is addressed to the correct person (or "Dear Hiring Manager" if unknown)
 - [ ] Cover letter fits approximately one page
 

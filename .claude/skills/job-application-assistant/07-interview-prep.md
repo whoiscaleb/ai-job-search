@@ -38,6 +38,13 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **R:** Improved the accuracy of customer-facing reports and the efficiency of internal troubleshooting.
 **Use for:** "Tell me about a time you used code to solve a problem", "Do you have development experience?"
 
+### 5b. Building the MagicCarpet Troubleshooter (API/integration troubleshooting, initiative, cross-team impact)
+**S:** MagicCarpet, Biller Genie's QuickBooks sync integration, generated recurring support tickets because the standard troubleshooting steps fixed the symptom but not the root cause, and the same merchants kept coming back. This slowed both Support and Sales, since Sales fielded the resulting merchant frustration.
+**T:** Move the team from reactive, one-off fixes to a consistent, repeatable diagnostic process both teams could use.
+**A:** Built an internal application that walks a rep through a flowchart with the merchant to find the optimal install point, splits issues into install/connect vs. post-install sync errors, and matches pasted error text or a screenshot against a documented library of MagicCarpet errors, surfacing root cause, fix steps, and a Help Center link.
+**R:** Cut sync-related ticket volume by 70%.
+**Use for:** "Tell me about a time you built a tool to solve a problem", "Describe an API or integration issue you've troubleshot", "Tell me about a time you identified an operational challenge"
+
 ### 5. Managing high-volume complex escalations at 98% success (Working under pressure)
 **S:** The Tier 2 role at Biller Genie requires handling complex technical escalations across Enterprise SaaS customers at high volume.
 **T:** Maintain resolution quality while managing 50+ weekly cases.
