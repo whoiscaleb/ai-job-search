@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Help (no arguments)": { "commandName": "Project" },
+    "T-101 directory Pine Ridge": { "commandName": "Project", "commandLineArgs": "directory 1 pine-ridge-directory.csv" },
+    "T-102 balance unit 102": { "commandName": "Project", "commandLineArgs": "balance 2" },
+    "T-103 delinquency Pine Ridge": { "commandName": "Project", "commandLineArgs": "delinquency 1 2026-10-15 30" },
+    "T-104 statement unit 112": { "commandName": "Project", "commandLineArgs": "statement 6" },
+    "T-105 statement unit 105": { "commandName": "Project", "commandLineArgs": "statement 5" },
+    "T-105 repro: pay unit 104": { "commandName": "Project", "commandLineArgs": "pay 4 300 2026-10-15 ACH" },
+    "T-106 run late fees Lakeview": { "commandName": "Project", "commandLineArgs": "latefees 2 2026-10-15" }
+  }
+}
